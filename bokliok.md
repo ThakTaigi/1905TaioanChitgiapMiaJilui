@@ -7,4 +7,8 @@ title: 目錄
 ---
 
 ## Bo̍k-lio̍k 目錄
-- [冊皮](./chheh/?page=1){:target="_blank"}
+- [凡例](./chheh/?page=4){:target="_blank"}
+- [正誤](./chheh/?page=8){:target="_blank"}
+- [注意](./chheh/?page=9){:target="_blank"}
+- [索引](./chheh/?page=10){:target="_blank"}
+- [職業名](./chheh/?page=13){:target="_blank"}
